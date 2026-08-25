@@ -1,4 +1,4 @@
-# AI Fraud Risk Detector
+Fraud Risk Detector
 
 A machine learning model that scores payment transactions for fraud risk and decides whether to **approve**, **challenge with OTP**, or **block** them — built for the AI Risk Manager track (fraud-spike detector).
 
